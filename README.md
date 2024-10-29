@@ -3,7 +3,6 @@ Malicious Mobile Application Detection
 This project aims to detect malicious mobile applications using machine learning algorithms. By analyzing application features, we can classify them as either benign or potentially harmful. Leveraging Random Forest and LightGBM models, this project achieves high classification accuracy by identifying patterns in app behavior that signal potential security risks.
 
 
-
 Features
 Binary Classification: Classifies mobile applications as either benign or malicious.
 
