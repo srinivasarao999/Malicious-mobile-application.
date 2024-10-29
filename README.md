@@ -1,4 +1,5 @@
 Malicious Mobile Application Detection
+
 This project aims to detect malicious mobile applications using machine learning algorithms. By analyzing application features, we can classify them as either benign or potentially harmful. Leveraging Random Forest and LightGBM models, this project achieves high classification accuracy by identifying patterns in app behavior that signal potential security risks.
 
 Features
@@ -9,7 +10,6 @@ Model Evaluation: Assesses models using metrics like accuracy, precision, recall
 Dataset: Consists of application metadata, permissions, and behavior indicators.
 Installation
 Clone this repository:
-
 bash
 Copy code
 git clone https://github.com/your-username/malicious-mobile-application
